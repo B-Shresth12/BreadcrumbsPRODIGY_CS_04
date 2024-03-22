@@ -1,9 +1,9 @@
-# PRODIGY_CS_03
+# PRODIGY_CS_04
 
 <h2>PRODIGY INFOTECH</h2><br />
-TASK 3: Simple Keylogger<br />
+TASK 4: Simple Keylogger<br />
 
-# PRODIGY_CS_02
+# PRODIGY_CS_04
 
 <h2>PRODIGY INFOTECH</h2><br />
 TASK 4: Create a basic keylogger program that records and logs keystrokes. 
