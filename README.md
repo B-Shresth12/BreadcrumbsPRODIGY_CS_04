@@ -1,18 +1,23 @@
-# PRODIGY_CS_04
+# Simple Keylogger 🖥️⌨️  
 
-<h2>PRODIGY INFOTECH</h2><br />
-TASK 4: Simple Keylogger<br />
+Create a **basic keylogger program** that records and logs keystrokes.  
+- The program listens to user keypresses and logs them to a file.  
+- **Note:** Ethical considerations and permissions are crucial for projects involving keyloggers. Always ensure compliance with legal and ethical standards.  
 
-# PRODIGY_CS_04
+---
 
-<h2>PRODIGY INFOTECH</h2><br />
-TASK 4: Create a basic keylogger program that records and logs keystrokes. 
-Focus on logging the keys pressed and saving them to a file. 
-Note: Ethical considerations and permissions are crucial for projects involving keyloggers.<br />
+### 📌 Observations:  
 
-Develop a simple image encryption tool using pixel manipulation. You ccan perform operations like swapping pixel values or applying a basic mathemathical operation to each pixel. Allow users to encrypt and decrypt images<br><br>
+- A **keylogger** is a tool that listens to and records user keystrokes.  
 
-<h3>Observations:</h3>
-<p>
-  Kelogger is a tool that listens to the user key strokes.
-</p>
+---
+
+### 🎯 Outcome:  
+
+- Gained insights into how **keylogging works**.  
+- Learned about the ethical implications of such tools.  
+- Improved understanding of low-level input monitoring.  
+
+---
+
+⚠️ **Disclaimer:** This project is for educational purposes only. Use responsibly and with proper permissions.  
